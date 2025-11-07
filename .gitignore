@@ -1,0 +1,6 @@
+.venv/
+data/
+work_dirs/
+**/__pycache__/
+*.egg-info/
+
